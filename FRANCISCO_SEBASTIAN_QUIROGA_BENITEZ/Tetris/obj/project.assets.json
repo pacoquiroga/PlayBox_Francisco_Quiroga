@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paqui\\OneDrive\\Escritorio\\ESPE\\SEGUNDO SEMESTRE\\POO\\EXPERIMENTO\\PlayBox_7996\\FRANCISCO_SEBASTIAN_QUIROGA_BENITEZ\\Tetris\\Tetris.csproj",
+      "projectUniqueName": "C:\\Users\\paqui\\OneDrive\\Escritorio\\ESPE\\SEGUNDO SEMESTRE\\POO\\EXPERIMENTO\\PlayBox_Francisco_Quiroga\\FRANCISCO_SEBASTIAN_QUIROGA_BENITEZ\\Tetris\\Tetris.csproj",
       "projectName": "Tetris",
-      "projectPath": "C:\\Users\\paqui\\OneDrive\\Escritorio\\ESPE\\SEGUNDO SEMESTRE\\POO\\EXPERIMENTO\\PlayBox_7996\\FRANCISCO_SEBASTIAN_QUIROGA_BENITEZ\\Tetris\\Tetris.csproj",
+      "projectPath": "C:\\Users\\paqui\\OneDrive\\Escritorio\\ESPE\\SEGUNDO SEMESTRE\\POO\\EXPERIMENTO\\PlayBox_Francisco_Quiroga\\FRANCISCO_SEBASTIAN_QUIROGA_BENITEZ\\Tetris\\Tetris.csproj",
       "packagesPath": "C:\\Users\\paqui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paqui\\OneDrive\\Escritorio\\ESPE\\SEGUNDO SEMESTRE\\POO\\EXPERIMENTO\\PlayBox_7996\\FRANCISCO_SEBASTIAN_QUIROGA_BENITEZ\\Tetris\\obj\\",
+      "outputPath": "C:\\Users\\paqui\\OneDrive\\Escritorio\\ESPE\\SEGUNDO SEMESTRE\\POO\\EXPERIMENTO\\PlayBox_Francisco_Quiroga\\FRANCISCO_SEBASTIAN_QUIROGA_BENITEZ\\Tetris\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
